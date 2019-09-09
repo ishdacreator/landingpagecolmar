@@ -1,0 +1,145 @@
+body {
+    margin: 0 auto;
+    background-color: white;
+}
+p {
+    display: inline;
+    font-size: 18px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:black;
+}
+h1{
+    text-align: center;
+}
+#fimage {
+    display: block;
+    width: 200px;
+    height: 200px;
+}
+video {
+    margin-bottom: 30px;
+}
+h3 {
+    font-size: 60px;
+}
+.bimage {
+    height: 20px;
+}
+.banners {
+    padding: 20px;
+    background-color: white;
+}
+.banner {
+    width: 550px;
+    height: 400px;
+}
+.exhibit {
+    display: flex;
+    background-color: whitesmoke;
+}
+ul a {
+    text-decoration: none;
+    color: black;
+    font-size: 15px;
+    font-style: italic;
+}
+.navbar {
+    display: inline;
+    padding-left: 900px;
+}
+.b-frames {
+    padding-top: 70px;
+    padding-left: 20px;
+}
+.nav {
+    display: inline;
+    padding: 16px;
+}
+#one {
+    padding-left: 30px;
+    text-align: center;
+}
+#write-a {
+    padding-top: 5px;
+    padding-left: 20px;
+}
+.article-one {
+    display: inline-flex;
+    background-color: white;
+}
+.post {
+    padding-top: 7px;
+    display: inline-flex;
+    width: 400px;
+}
+.sideshow {
+    display: block;
+    padding-left: 70px;
+}
+
+.frames {
+    margin-top: 10px;
+    margin-left: 70px;
+    margin-bottom: 10px;
+    display: inline-block;
+    background-color: whitesmoke;
+    width: auto;
+    height: auto;
+}
+#image {
+    display: block;
+    width: 300px;
+    height: 210px;
+}
+#read {
+    display: block;
+}
+#picture {
+    display: block;
+    width: 110px;
+    height: 100px;
+    padding-bottom: 5px;
+}
+.photo-1 {
+    width: 550px;
+    height: 300px;
+}
+.learning {
+    display: flex;
+    padding-top: 20px;
+}
+#button {
+    border: cadetblue;
+}
+#picture1 {
+    display: block;
+    width: 170px;
+    height: 120px;
+    margin-bottom: 20px;
+    padding-top: 20px;
+    padding-left: 8px;
+}
+section {
+    border-top: solid 2px gray;
+}
+
+.frame-bottom {
+    margin-bottom: 20px;
+    display: inline-flex;
+    width: 400px;
+    background-color: floralwhite;
+}
+#write-t {
+    text-align: center;
+    font-size: 15px;
+    padding-left: 4px;
+}
+#button {
+    width: 320px;
+    height: 30px;
+    background-color: teal;
+}
+footer {
+    height: 30px;
+    background-color: ivory;
+}
